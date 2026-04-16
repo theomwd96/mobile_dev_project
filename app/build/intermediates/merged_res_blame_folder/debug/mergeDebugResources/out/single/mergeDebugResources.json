@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "com.studenthousing.app-debug-61:/layout_item_roommate.xml.flat",
+        "source": "com.studenthousing.app-main-63:/layout/item_roommate.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/layout_bottom_sheet_filter.xml.flat",
+        "source": "com.studenthousing.app-main-63:/layout/bottom_sheet_filter.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/drawable_ic_favorite_border.xml.flat",
+        "source": "com.studenthousing.app-main-63:/drawable/ic_favorite_border.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/layout_item_connection.xml.flat",
+        "source": "com.studenthousing.app-main-63:/layout/item_connection.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/layout_fragment_property_detail.xml.flat",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_property_detail.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/layout_fragment_add_property.xml.flat",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_add_property.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/layout_activity_main.xml.flat",
+        "source": "com.studenthousing.app-main-63:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/menu_menu_main.xml.flat",
+        "source": "com.studenthousing.app-main-63:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/layout_item_booking_request.xml.flat",
+        "source": "com.studenthousing.app-main-63:/layout/item_booking_request.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/layout_fragment_booking_requests.xml.flat",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_booking_requests.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/layout_fragment_profile.xml.flat",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/drawable_ic_favorite_filled.xml.flat",
+        "source": "com.studenthousing.app-main-63:/drawable/ic_favorite_filled.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/layout_fragment_properties.xml.flat",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_properties.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/navigation_nav_graph.xml.flat",
+        "source": "com.studenthousing.app-main-63:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/layout_item_property.xml.flat",
+        "source": "com.studenthousing.app-main-63:/layout/item_property.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/layout_fragment_roommates.xml.flat",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_roommates.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/drawable_placeholder_property.xml.flat",
+        "source": "com.studenthousing.app-main-63:/drawable/placeholder_property.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/layout_fragment_my_properties.xml.flat",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_my_properties.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/layout_fragment_verify_email.xml.flat",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_verify_email.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/layout_fragment_connections.xml.flat",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_connections.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/layout_fragment_login.xml.flat",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/layout_fragment_bookings.xml.flat",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_bookings.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/layout_item_booking.xml.flat",
+        "source": "com.studenthousing.app-main-63:/layout/item_booking.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/layout_fragment_favorites.xml.flat",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_favorites.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/drawable_bg_type_chip.xml.flat",
+        "source": "com.studenthousing.app-main-63:/drawable/bg_type_chip.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/layout_fragment_signup.xml.flat",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_signup.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/drawable_ic_launcher.xml.flat",
+        "source": "com.studenthousing.app-main-63:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/layout_fragment_map_picker.xml.flat",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_map_picker.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-debug-61:/drawable_bg_status_chip.xml.flat",
+        "source": "com.studenthousing.app-main-63:/drawable/bg_status_chip.xml"
+    }
+]

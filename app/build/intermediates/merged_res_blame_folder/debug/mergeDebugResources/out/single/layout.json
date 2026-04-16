@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.studenthousing.app-mergeDebugResources-60:/layout/fragment_booking_requests.xml",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_booking_requests.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-mergeDebugResources-60:/layout/item_booking_request.xml",
+        "source": "com.studenthousing.app-main-63:/layout/item_booking_request.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-mergeDebugResources-60:/layout/fragment_favorites.xml",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_favorites.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-mergeDebugResources-60:/layout/fragment_connections.xml",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_connections.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-mergeDebugResources-60:/layout/item_property.xml",
+        "source": "com.studenthousing.app-main-63:/layout/item_property.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-mergeDebugResources-60:/layout/fragment_add_property.xml",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_add_property.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-mergeDebugResources-60:/layout/fragment_roommates.xml",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_roommates.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-mergeDebugResources-60:/layout/fragment_profile.xml",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-mergeDebugResources-60:/layout/fragment_signup.xml",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_signup.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-mergeDebugResources-60:/layout/item_roommate.xml",
+        "source": "com.studenthousing.app-main-63:/layout/item_roommate.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-mergeDebugResources-60:/layout/bottom_sheet_filter.xml",
+        "source": "com.studenthousing.app-main-63:/layout/bottom_sheet_filter.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-mergeDebugResources-60:/layout/fragment_properties.xml",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_properties.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-mergeDebugResources-60:/layout/item_connection.xml",
+        "source": "com.studenthousing.app-main-63:/layout/item_connection.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-mergeDebugResources-60:/layout/fragment_map_picker.xml",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_map_picker.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-mergeDebugResources-60:/layout/activity_main.xml",
+        "source": "com.studenthousing.app-main-63:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-mergeDebugResources-60:/layout/item_booking.xml",
+        "source": "com.studenthousing.app-main-63:/layout/item_booking.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-mergeDebugResources-60:/layout/fragment_my_properties.xml",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_my_properties.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-mergeDebugResources-60:/layout/fragment_property_detail.xml",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_property_detail.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-mergeDebugResources-60:/layout/fragment_bookings.xml",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_bookings.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-mergeDebugResources-60:/layout/fragment_verify_email.xml",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_verify_email.xml"
+    },
+    {
+        "merged": "com.studenthousing.app-mergeDebugResources-60:/layout/fragment_login.xml",
+        "source": "com.studenthousing.app-main-63:/layout/fragment_login.xml"
+    }
+]

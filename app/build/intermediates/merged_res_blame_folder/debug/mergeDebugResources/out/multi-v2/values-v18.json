@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.studenthousing.app-mergeDebugResources-59:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\96171\\.gradle\\caches\\9.0.0\\transforms\\b03ed2942361e5e96e38d7b6c1dd6b5c\\transformed\\appcompat-1.7.0\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
